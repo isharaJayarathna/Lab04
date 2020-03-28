@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Notification</string>
+    <string name="editT1">Name</string>
+    <string name="but1">Sign up</string>
+    <string name="editT2">Name</string>
+    <string name="editT3">Email</string>
+    <string name="editT4">Telephone</string>
+    <string name="editT5">Password</string>
+    <string name="editT6">Re_type Password</string>
+    <string name="but2">Register</string>
+    <string name="but3">Cansel</string>
+    <string name="ID1_MainJava">channel_name</string>
+    <string name="ID2_MainJava">channel_description</string>
+    <string name="channel_name">id1_MainJava</string>
+    <string name="channel_description">id2_MainJava</string>
+
+
+
+</resources>
